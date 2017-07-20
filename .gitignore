@@ -11,3 +11,4 @@ slurm_scripts/
 SSBM.iso
 parallel/
 dolphin/
+.DS_Store
